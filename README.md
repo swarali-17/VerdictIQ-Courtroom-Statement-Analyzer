@@ -13,6 +13,12 @@ An NLP-based AI system that analyses witness statements and classifies them as *
 
 ---
 
+## 🎥 Demo Video  
+
+https://github.com/user-attachments/assets/99e1adef-68fd-4980-9871-cc8c9c721652
+
+---
+
 ## 🧰 Tech Stack
 | Technology | Description |
 |------------|-------------|
@@ -54,12 +60,6 @@ VerdictIQ/
    streamlit run frontend/streamlit_app.py
    ```
 4. Interact with the UI, upload witness statements, and observe classification results.
-
----
-
-## 🎥 Demo Video  
-📌 *Demo link will be added soon*  
-`[Demo Coming Soon]`
 
 ---
 
